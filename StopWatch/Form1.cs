@@ -54,9 +54,5 @@ namespace StopWatch
             textBox1.Text = timer.ToString();
         }
 
-        private void textBox1_TextChanged_1(object sender, EventArgs e)
-        {
-
-        }
     }
 }
